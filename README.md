@@ -1,9 +1,9 @@
-# about-words
-Simple json dictionary.
+# Dicionario PT-BR
+Dicionario em JSON.
 
-For while, only in PT-BR;
-Receive a string with one or more words;
-Return a list with one or more results;
+Recebe uma string como parametro contendo uma ou mais palavras e 
+retorna uma lista contendo significado, anagramas e classificação gramatical. 
+
 
 ```
 
